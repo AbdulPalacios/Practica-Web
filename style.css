@@ -1,0 +1,16 @@
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer li {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+footer img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}

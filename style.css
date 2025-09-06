@@ -10,7 +10,24 @@ footer li {
 }
 
 footer img {
-    width: 24px;
-    height: 24px;
+    width: 35px;
+    height: 35px;
+    margin-right: 8px;
+}
+
+div ul {
+    list-style: none;
+    padding: 0;
+}
+
+div li {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+div img {
+    width: 35px;
+    height: 35px;
     margin-right: 8px;
 }
